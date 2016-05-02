@@ -46,6 +46,6 @@
     },
     "config": {
         "preferred-install": "dist",
-	"cache-dir": "/Applications/AMPPS/www/marko/cache"
+	"cache-dir": "/Applications/AMPPS/www/ENDOR_INC/marko/cache"
     }
 }
